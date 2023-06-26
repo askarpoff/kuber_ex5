@@ -3,10 +3,20 @@
 ### Задание 1. Создать Deployment приложений backend и frontend
 
 1. Создать Deployment приложения _frontend_ из образа nginx с количеством реплик 3 шт.
-2. Создать Deployment приложения _backend_ из образа multitool. 
-3. Добавить Service, которые обеспечат доступ к обоим приложениям внутри кластера. 
+   
+2. Создать Deployment приложения _backend_ из образа multitool.
+  
+3. Добавить Service, которые обеспечат доступ к обоим приложениям внутри кластера.
+ 
+![image](https://github.com/askarpoff/kuber_ex5/assets/108946489/062252e2-787f-4486-841d-2c83bb523cf8)
+ 
 4. Продемонстрировать, что приложения видят друг друга с помощью Service.
+
+![image](https://github.com/askarpoff/kuber_ex5/assets/108946489/fb9a664a-3244-4b5d-b2df-f867f2e50618)
+   
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
+
+
 
 ------
 
