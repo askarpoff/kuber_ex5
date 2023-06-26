@@ -52,9 +52,15 @@
 microk8s enable ingress
 ```
 3. Создать Ingress, обеспечивающий доступ снаружи по IP-адресу кластера MicroK8S так, чтобы при запросе только по адресу открывался _frontend_ а при добавлении /api - _backend_.
+
+![image](https://github.com/askarpoff/kuber_ex5/assets/108946489/d25e4202-c935-45fa-851a-23c45d7b7db9)
+  
 4. Продемонстрировать доступ с помощью браузера или `curl` с локального компьютера.
-5. Предоставить манифесты и скриншоты или вывод команды п.2.
 
 
+
+6. Предоставить манифесты и скриншоты или вывод команды п.2.
+
+[ingress.yaml](https://github.com/askarpoff/kuber_ex5/blob/main/task2/ingress.yaml)
 
 
