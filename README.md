@@ -16,9 +16,9 @@
    
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
-[https://github.com/askarpoff/kuber_ex5/blob/main/task1/frontend.yaml]
-[https://github.com/askarpoff/kuber_ex5/blob/main/task1/backend.yaml]
-[https://github.com/askarpoff/kuber_ex5/blob/main/task1/services.yaml]
+[frontend.yaml](https://github.com/askarpoff/kuber_ex5/blob/main/task1/frontend.yaml)
+[backend.yaml](https://github.com/askarpoff/kuber_ex5/blob/main/task1/backend.yaml)
+[services.yaml](https://github.com/askarpoff/kuber_ex5/blob/main/task1/services.yaml)
 
 ------
 
